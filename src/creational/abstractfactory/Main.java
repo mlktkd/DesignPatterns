@@ -12,7 +12,7 @@ public class Main {
         rectangle.drawShape();
         IShape triangle = shapeFactory.getShape("Triangle");
         triangle.drawShape();
-
+//dfxgh
 
     }
 }
